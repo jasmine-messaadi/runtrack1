@@ -1,0 +1,162 @@
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:italic;
+    padding: 60px;
+    margin: 60px;
+    text-align: justify;
+    box-sizing: border-box;
+}
+body {
+    color:rgb(10, 10, 10);
+    background-color:rgb(110, 147, 228);
+      }
+p{
+    font-size: 1em;
+    line-height: 1.5em;
+}     
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+header, footer{
+    width: 100%;
+    padding: 50px 0px;
+    background: url("https://img.hebus.com/hebus_2021/08/18/preview/1629283336_84818.jpg") #4f4f4f;
+    box-shadow: 0px 0px 15px #333;
+}
+header{
+    border-bottom: 2px solid #fff;
+    height: 130px;
+}
+header h1{
+    color: rgba(18, 19, 19, 0.753);
+    font-size: 1.5em;
+    width: 100%;
+    margin: 0 auto;
+}
+
+footer{
+    border-top: 2px solid #fff;
+}
+footer p{
+    width: 90%;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;}
+footer a{
+    color: #fff;
+}
+section{
+    display: flex; 
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 20px;
+    margin: 00px auto;
+    box-shadow: 0px 0px 10px #bbb;
+    background-color: #fff;
+}
+section h2{
+    display: flex;
+    margin: 20px 0;
+    width: 100%;
+    justify-content: center;
+}
+section > div{
+    width: 90%;
+}
+.photo img{
+    width: 150px;
+    height: 150px;
+    border: 3px solid #fff;
+    box-shadow: 0px 0px 10px #777;
+    border-radius: 50%;
+    margin-top: -80px;
+}
+.contact-flex{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+.contact-flex p:first-child{
+    flex: 0 0 40%;
+}
+.contact-flex p:last-child{
+    flex: 0 0 60%;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px auto 0px auto;
+}
+.social img{
+    width: 40px;
+    height: 40px;
+}
+.exp{
+    display: flex;
+    flex-flow: row wrap;
+    border-bottom: 1px solid #bbb;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.exp-info{
+    display: flex;
+    flex-flow: column;
+    padding:2%;
+}
+.exp-logo{
+    flex: 0 0 25%;
+    max-width: 100px;
+}
+.exp-info{
+    flex: 0 0 70%;
+    margin-left: auto;
+}
+
+/* Responsive*/
+@media screen and (min-width: 980px){
+    section{
+        width: 80%;
+        box-shadow: 0px 0px 10px #bbb;
+    }
+    a:hover{
+        color: rgb(157, 22, 235);
+    }
+    header h1{
+        width: 80%;
+
+    }
+    .contact{
+        padding-left: 20px;
+        margin-right: auto;
+    
+    }
+    .exp-logo{
+        flex: 0 0 10%;
+    }
+    .exp-info, .exp-desc{
+        flex: 0 0 85%;
+        margin-left: auto;
+    }
+    
+}
+#sncf{
+    display: block;
+    position: absolute;
+    left: 14% ; top: 87% ;
+}
+
+#Aquastudio{
+    display: block;
+    position: absolute;
+    left: 14% ; top: 100% ;
+}
+div:hover{
+    color: rgb(157, 22, 235);
+
+}
+.passage:hover{
+    color: rgb(157, 22, 235);
+}
