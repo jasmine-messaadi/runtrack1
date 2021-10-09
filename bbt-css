@@ -1,0 +1,94 @@
+/*STYLES GENERAUX*/
+*{
+    font-family: Avenir, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    text-align: justify;
+    box-sizing: border-box;
+}
+body{
+    background: #FCF3CF;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+/*HEADER & FOOTER*/
+header, footer{
+    width: 100%;
+    padding: 20px 0px;
+    background: url("https://cdn.glitch.me/47738bba-35a1-4124-a82f-596769755ad7%2FFond-gris-fonce%CC%81-CSSR.png?v=1633437927184") #4f4f4f;
+    box-shadow: 0px 0px 15px #333;
+}
+header{
+    border-bottom: 2px solid #fff;
+    height: 120px;
+}
+header h1{
+    color: white;
+    font-size: 1.5em;
+    width: 90%;
+    margin: 0 auto;
+}
+
+footer{
+    border-top: 2px solid #fff;
+}
+footer p{
+    width: 90%;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+}
+footer a{
+    color: #fff;
+}
+
+/*Section */
+
+section > div{
+    width: 90%;
+}
+
+.avaJ{
+  position:absolute;
+  left: -40px;
+}
+
+.avaC{
+  position:absolute;
+  left: 70px;
+}
+
+.avaB{
+  position:absolute;
+  left: 172px;
+}
+
+.avaT{
+  position:absolute; 
+  left: 275px;
+}
+
+.avaS{
+  position:absolute;
+  left: 375px;  
+}
+
+.photo{
+    text-align: center;
+}
+.photo img{
+    width: 480px;
+    height: 400px;
+}  
+
+p {
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #999;
+    font-size: 1em;
+    line-height: 1.5em;
+}
