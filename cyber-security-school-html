@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="./indexsite.css">
+    <header>
+        <link rel="icon" href="https://i0.wp.com/laplateforme.io/wp-content/uploads/2021/07/cropped-favicon.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+        <img src="https://laplateforme.io/wp-content/uploads/2021/07/logo_laplateforme_bleu3.png" height="50px"alt="Logo la Plateforme">
+        <nav>
+            <ul>
+                <li><a href="accueil.html">Accueil</a></li>
+                <li><a href=qui-sommes-nous.html">Qui somme-nous ?</a></li>
+                <li><a href="coding-school.html">Coding</a></li>
+                <li><a href="ai-school.html">IA School</a></li>
+                <li><a href="cyber-security-school.html">Cyber Security Shool </a></li>
+                <li><a href="digital-lab.html">Digital labs</a></li>
+                <li><a href="executive-education.html">Education</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+  
+<body>
+<section>
+    <head> 
+    <h1>La Cyber Security School</h1>
+    <h4>de 1 à 3 ans, 3 titres professionnels</h4>
+    </head>
+    <div class="">
+    <article>
+       <br> La Cyber Security School propose un cursus spécialisé de 1 à 3 ans qui couvre l’ensemble des métiers de la sécurité informatique. Elle permet d’obtenir 2 bachelors (BAC+3) et un  MSc (BAC+5) pour devenir Expert en Sécurité des Systèmes d’Information.
+La Cyber Sécurité est devenue, en quelques années, un enjeu majeur de nos sociétés. Elle bouleverse les écosystèmes et les entreprises, et fait régulièrement les gros titres de l’actualité.
+Derrière, les enjeux économiques sont très importants : vols de secrets industriels, pertes de données, protection des données privées, arrêts de production…
+Aujourd’hui, une entreprise sur deux est ciblée par des cyber-attaques.  La nécessité de disposer des ressources humaines compétentes et spécialisées dans le domaine n’a jamais été aussi criant.
+Grâce à sa pédagogie unique et ses liens avec des entreprises du secteur, la Cyber Security School ouvre à des carrières en Cyber Sécurité à tous les postes clés des entreprises.</br>
+    </article>
+    </div>
+<br>
+<dev class="video">
+<iframe width="600" height="400" src="https://www.youtube.com/embed/6l6hewxPzew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</dev>
+</section>
+
+<section class="sect1">
+
+    <div class="div1"><br>
+        <p>
+        <img class="img" src="https://www.archimag.com/sites/archimag.com/files/styles/article/public/web_articles/image/cybersecurite_2.jpg?itok=C2Wjlyu5" height="130px"><br/>
+             Professionnel du développement sécurisé
+            <br>
+            La formation délivre un bachelor de Développeur sécurité (BAC+3)
+            8 mois de stage alterné en entreprise
+            Conception d’applications
+            Développement & Sécurité Web
+            Développement & Sécurité Logiciel
+            Quality Assurance
+            Gestion et suivi de bugs
+            GNU-Linux
+            Pré-requis :
+            Bases en développement et en algorithmie.
+            Le recrutement s’effectue sur tests et dossier
+            La formation est intégralement gratuite pour l’apprenti
+            <br />
+        </p>
+    </div>
+ 
+<div class="div1">  <br>
+        <p>
+         <img class="img" src="https://www.archimag.com/sites/archimag.com/files/styles/article/public/web_articles/image/cybersecurite_2.jpg?itok=C2Wjlyu5" height="130px"><br/>
+            Administrateur Sécurité
+            <br>    
+            La formation délivre un bachelor de Gestionnaire de la sécurité des données, des réseaux et des systèmes (BAC+3)
+            7 mois de stage alterné en entreprise
+            Sécurisation et administration des systèmes, des réseaux et des données
+            GNU/Linux
+            Analyse et Traitement des risques
+            Politiques de sécurité, RGPD
+            Pré-requis :
+            Bases en administration système, réseaux et données
+            Le recrutement s’effectue sur tests et dossier
+            La formation est intégralement gratuite pour l’apprenti.
+             </br>
+         </p>    
+     </div>
+
+<div class="div1"><br>
+    <p>
+        <img class="img" src="https://www.archimag.com/sites/archimag.com/files/styles/article/public/web_articles/image/cybersecurite_2.jpg?itok=C2Wjlyu5" height="130px"><br/>
+           Responsable de la Protection des Données (DPO)
+        <br>
+        La formation délivre un MSc de Délégué à la protection des données personnelles (BAC+5)
+        8 mois de stage alterné en entreprise
+        Définition des politiques de sécurité et de protection des données
+        Identification des risques sécurité des SI et mise en conformité
+        Gestion des incidents et interaction avec les parties prenantes
+        Cadrage Éthique & Juridique
+        Security by Design
+        La formation est intégralement gratuite pour l’apprenti.
+        </br>
+    </p>
+    </div>
+
+</section>
+
+</section>
+<a href="https://laplateforme.io/informations-security-school"><button>INFORMATION ET INSCRIPTION</button></a> <br>
+
+<p>Le Crédit Agricole Alpes Provence s’engage plus loin avec La Plateforme_ en accompagnant les élèves dans le financement de leur vie quotidienne, de leurs équipements et de leurs projets grâce à des offres de financement exclusives</p>
+</section>
+</body>
+</section>
+<footer>
+    <div class="sect1">
+        <div>
+            <img src="https://i2.wp.com/laplateforme.io/wp-content/uploads/2021/07/logo_monogramme-1.png?w=800&ssl=1" height="250px">
+        </div>
+        <div class="div4">
+            La Plateforme <br /> 
+
+            Accueil<br /> 
+
+            Qui sommes-nous ?<br /> 
+
+            Notre brochure<br /> 
+
+            Ils parlent de nous<br /> 
+
+            Contact<br /> 
+
+            Annuaire des Plateformeurs<br /> 
+
+            Mentions Légales<br /> 
+        </div>
+        <div class="div4">
+            Les Formations<br /> 
+
+            Coding School<br /> 
+            
+            Artificial Intelligence School<br /> 
+            
+            Cyber Security School<br /> 
+            
+            Executive Education<br /> 
+            <br /> 
+            <img src="https://i0.wp.com/laplateforme.io/wp-content/uploads/2021/09/april.png?w=1080&ssl=1" height="50px">
+        </div>
+        <div class="div4">
+            <button class="inscriptionbutton">En Savoir Plus </button> <br /> 
+            Rejoignez-nous sur les réseaux sociaux<br /> 
+            <img src="https://i2.wp.com/laplateforme.io/wp-content/uploads/2021/02/LogoQualiopi-150dpi-AvecMarianne.png?w=317&ssl=1" height="50px">
+        </div>
+    </div>
+    <div class="sect1">
+        <div>
+            Association loi 1901 - SIRET : 84160956300025
+        <br /> 
+            Tel : 04.84.89.43.69 - contact@laplateforme.io
+        <br /> 
+            © La Plateforme_. Tous droits réservés.
+        </div>
+    </div>
+</footer>
+</html>
