@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>BTT</title>
+    
+    <link rel="stylesheet" href="/btt.css">
+    <embed src="https://cdn.glitch.me/47738bba-35a1-4124-a82f-596769755ad7%2Fmusique-dascenseur.mp3?v=1633440671993" autostart="true" loop="false" hidden="true"></embed>
+  </head>  
+  <body>
+    <header>
+      
+        <h1>L'EQUIPE TYPE (4-4-2) </h1>
+      
+    </header>
+    
+    <section>
+    <div class="photo">
+    <img src="https://cdn.glitch.me/47738bba-35a1-4124-a82f-596769755ad7%2Fimage0.jpeg?v=1633444056651" alt="photoGroupe">
+    </div>
+    
+    
+    <p>Salut nous c'est l'équipe type 4-4-2 , 
+       on viens de se rencontrer mais on s'entend plutot bien comme 
+      vous pouvez le voir sur la photo au dessus, si vous voulez connaitre
+      chaque m'emebre n'hesitez pas à clicker sur sont avatar </br> 
+      on à Jasmine suivi de Chaima puis Badr, Thao-nhi et enfin Sami</p>
+  
+    
+    
+    <figure class="avaJ">
+    <a href="cv-jasmine-messaadi.html"><img src="https://cdn.glitch.me/47738bba-35a1-4124-a82f-596769755ad7%2Fpixton-avatar-full-body-3.png?v=1633442866987" alt="avatarJ" width="200px"></a>
+    </figure>
+      <figure class="avaC">
+    <a href="cv-aicheche-chaima.html"><img src="https://cdn.glitch.me/47738bba-35a1-4124-a82f-596769755ad7%2Fpixton-avatar-full-body-1.png?v=1633442855806" alt="avatarC" width="200px"></a>
+    </figure>
+    <figure class="avaB">
+    <a href="cv-badr-sebaa.html"><img src="https://cdn.glitch.me/47738bba-35a1-4124-a82f-596769755ad7%2Fpixton-avatar-full-body-2.png?v=1633442859970" alt="avatarB" width="200px"></a>
+    </figure>
+    <figure class="avaT">
+    <a href="cv-thaonhi-pham.html"><img src="https://cdn.glitch.me/47738bba-35a1-4124-a82f-596769755ad7%2Fpixton-avatar-full-body-4.png?v=1633442871797" alt="avatarT" width="200px"></a>
+    </figure>
+    <figure class="avaS">
+    <a href="cv-sami-baroudi.html"><img src="https://cdn.glitch.me/47738bba-35a1-4124-a82f-596769755ad7%2Fpixton-avatar-full-body.png?v=1633442876800" alt="avatarS" width="200px"></a>
+    </figure> 
+    </section>
+  </body>
+</html>
